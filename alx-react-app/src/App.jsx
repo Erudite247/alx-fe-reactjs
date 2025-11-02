@@ -13,10 +13,10 @@ function App() {
 
   return (
     <>
-      <WelcomeMessage />
-      <Header />
-      <MainContent />
-      <Footer />
+      <WelcomeMessage/>
+      <Header/>
+      <MainContent/>
+      <Footer/>
       <UserProfile
         name="Alice"
         age="25"
